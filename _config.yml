@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2018
+since: 2019
 
 # icon between year and author @Footer
 authoricon: heart
@@ -121,7 +121,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  github: /github/
+  #github: /github/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -218,6 +218,7 @@ social:
   #LinkLabel: Link
     GitHub: https://github.com/pythonmetal
     School: https://www.neu.edu.cn/
+    公司: https://www.neu.edu.cn/
 
 
 # Social Links Icons
