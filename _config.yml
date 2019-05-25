@@ -142,7 +142,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-  #github : github
+  github : github
 
 
 
@@ -216,8 +216,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/Logos23333
-    School: http://www.scut.edu.cn/new
+    GitHub: https://github.com/pythonmetal
+    School: https://www.neu.edu.cn/
 
 
 # Social Links Icons
@@ -237,7 +237,7 @@ social_icons:
 
 # Sidebar Avatar
 in directory: 
-avatar: assets/portrait.jpg
+avatar: assets/Koala.jpg
 
 
 # Table Of Contents in the Sidebar
