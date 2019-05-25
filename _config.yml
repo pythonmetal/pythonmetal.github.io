@@ -120,7 +120,7 @@ menu:
   categories: /categories/
   about: /about/
   archives: /archives/
-  tags: /tags/
+  #tags: /tags/
   #github: /github/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -153,8 +153,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
